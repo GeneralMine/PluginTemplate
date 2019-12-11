@@ -1,1 +1,1 @@
-# PluginTemplate
+# TUMineTemplate
