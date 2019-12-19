@@ -1,6 +1,6 @@
-main: ga.tumgaming.tumine.tuminetemplate.tuminetemplate
-name: TUMineTemplate
-prefix: TUMineTemplate
+main: ga.tumgaming.tumine.tuminetemplate.TUMineTemplate
+name: ${project.artifactId}
+prefix: ${project.artifactId}
 author: GeneralMine, HrMoritz, Laurox
 version: ${project.version}
 api-version: 1.14
